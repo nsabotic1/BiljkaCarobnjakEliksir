@@ -1,0 +1,21 @@
+
+r
+java:S1206A"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8Úš¢Õ®0
+9
+java:S1116"Remove this empty statement.(´–æ8ßš¢Õ®0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÜİøÖ8ßš¢Õ®0
+b
+java:S1659"EDeclare "jOtrovne" and all following declarations on a separate line.(“î”8àš¢Õ®0
+I
+java:S1872"'Use an "instanceof" comparison instead.(§ÌÀÑÿÿÿÿÿ8âš¢Õ®0
+D
+java:S1872"'Use an "instanceof" comparison instead.(…ı…ã8ãš¢Õ®0
+I
+java:S1872"'Use an "instanceof" comparison instead.(˜û™òûÿÿÿÿ8äš¢Õ®0
+=
+java:S2129M" Remove this "String" constructor(¹¶§Ó8êš¢Õ®0
+ƒ
+java:S1319"fThe type of "biljke" should be an interface such as "List" rather than the implementation "ArrayList".(ÜİøÖ8íš¢Õ®0
+’
+java:S13198"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İÂßÅüÿÿÿÿ8íš¢Õ®0
